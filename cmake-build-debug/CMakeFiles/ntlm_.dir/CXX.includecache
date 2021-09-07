@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/timas/work/ntlm/main.cpp
+vector
+-
+iostream
+-
+ntlm.hpp
+/home/timas/work/ntlm/ntlm.hpp
+
+/home/timas/work/ntlm/ntlm.hpp
+string
+-
+ntlm.h
+-
+

@@ -1,0 +1,3 @@
+/home/timas/work/ntlm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/timas/work/ntlm/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/timas/work/ntlm/cmake-build-debug/CMakeFiles/ntlm_.dir
